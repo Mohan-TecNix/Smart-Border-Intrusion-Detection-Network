@@ -16,3 +16,7 @@ ESP32-based border security system using PIR and vibration sensors for intrusion
 - LCD Alerts
 - Audio/Visual Alerts
 - False Trigger Reduction
+
+## Developed By 
+Mohanakrishnan Samraj 
+-B.E ECE
